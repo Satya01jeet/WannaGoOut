@@ -7,6 +7,9 @@ body {
     background-color: #7fbde3;
 }
 
+.aud{
+    display: block;
+}
 .header_text {
     font-family: 'Rubik Dirt', sans-serif;
     font-size: 70px;
